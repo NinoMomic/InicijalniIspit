@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\bin\Debug\Zadatak6.exe.config
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\bin\Debug\Zadatak6.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\bin\Debug\Zadatak6.pdb
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\obj\Debug\Zadatak6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\obj\Debug\Zadatak6.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\obj\Debug\Zadatak6.exe
+C:\Users\ucenik\source\repos\InicijalnoPonavljanje1.dio\Zadatak6\obj\Debug\Zadatak6.pdb
